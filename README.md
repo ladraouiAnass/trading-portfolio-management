@@ -37,9 +37,8 @@ This application is designed for managing trader accounts across multiple tradin
 - **Matplotlib:** For data visualization.
 
 ## Links
-
-- Sidi Mohammed Ben Abdellah University-Fez [FSDM:](https://www.fsdm.usmba.ac.ma/)
-- LinkedIn [Maazouz AbdelAziz:](https://www.linkedin.com/in/abdelaziz-maazouz/)
 - LinkedIn [Ladraoui Anass:](https://www.linkedin.com/in/anas-ladraoui-105b75223/)
+- LinkedIn [Maazouz AbdelAziz:](https://www.linkedin.com/in/abdelaziz-maazouz/)
+
   
 ---
